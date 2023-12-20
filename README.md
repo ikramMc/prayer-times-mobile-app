@@ -1,2 +1,2 @@
 # prayer-times-mobile-app
-check for peayer times wherever you are !
+check for prayer times wherever you are !
